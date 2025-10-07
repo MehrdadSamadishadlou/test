@@ -7,6 +7,5 @@ title: Home
 
 This is my homepage. Use the navigation below to explore:
 
-- [About](about.md)
 - [Projects](projects.md)
-- [Contact](contact.md)
+- [Publications](publications.md)
